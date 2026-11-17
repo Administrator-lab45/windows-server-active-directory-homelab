@@ -47,13 +47,13 @@ Status
 Prepare Hyper-V environment
 Completed
 Create virtual network switches
-In progress
+In Progress
 Create SERVER01 virtual machine
 Completed
 Create CLIENT01 virtual machine
 Completed
 Download Windows 11 ISO
-In progress
+In Progress
 Install Windows Server
 Pending
 Install Windows 11
@@ -95,5 +95,5 @@ PowerShell scripting
 Technical documentation
 Troubleshooting
 Project Status
-Currently in development.
+Currently in Development
 This repository will be updated continuously as new configurations, implementations and practical exercises are completed.
